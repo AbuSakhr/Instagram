@@ -1,4 +1,4 @@
-Version 30.60. Changelog:
+Version 10.00. Changelog:
 
 > Updated source code to v9.4.9.0.
 > تحديث جديد بواسطة المطور صـــــابر).

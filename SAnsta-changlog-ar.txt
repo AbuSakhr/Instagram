@@ -1,6 +1,3 @@
-Version 1.00. Changelog:
-
-> Updated source code to v9.4.9.0.
 > تحديث جديد بواسطة المطور صـــــابر).
 > Added option to hide transcription button in voice messages.
 > Added option to show user status circle on chat screen only if online.
